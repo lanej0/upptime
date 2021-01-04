@@ -20,8 +20,6 @@ sites:
     url: https://mayneislandchamber.ca
   - name: Tree Frog
     url: http://www.treefroggallery.ca
-  - name: Hotelst.at
-    url: http://hotelst.at
 assignees:
   - lanej0
 
