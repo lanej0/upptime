@@ -22,8 +22,8 @@ sites:
     url: https://treefroggallery.ca
   - name: Hotelst.at
     url: https://hotelst.at
-  assignees:
-    - lanej0
+assignees:
+  - lanej0
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
