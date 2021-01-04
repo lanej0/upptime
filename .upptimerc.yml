@@ -11,7 +11,7 @@ sites:
   - name: Industry Interactive
     url: https://industryinteractive.co
   - name: Testing Blog
-    url: https://mytested.com
+    url: http://mytested.com
   - name: Flyingtroll
     url: https://www.flyingtroll.com
   - name: Kelsi
@@ -19,9 +19,9 @@ sites:
   - name: MICCC
     url: https://mayneislandchamber.ca
   - name: Tree Frog
-    url: https://treefroggallery.ca
+    url: http://www.treefroggallery.ca
   - name: Hotelst.at
-    url: https://hotelst.at
+    url: http://hotelst.at
 assignees:
   - lanej0
 
