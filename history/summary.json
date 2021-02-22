@@ -4,10 +4,10 @@
     "url": "https://easton-snelgrove.com",
     "icon": "https://favicons.githubusercontent.com/easton-snelgrove.com",
     "slug": "easton-snelgrove-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 466,
@@ -15,7 +15,9 @@
     "timeWeek": 392,
     "timeMonth": 451,
     "timeYear": 466,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-02-22": 1
+    }
   },
   {
     "name": "Jonathan Lane",
@@ -130,9 +132,9 @@
     "url": "http://www.treefroggallery.ca",
     "icon": "https://favicons.githubusercontent.com/www.treefroggallery.ca",
     "slug": "tree-frog",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -141,6 +143,8 @@
     "timeWeek": 303,
     "timeMonth": 293,
     "timeYear": 310,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-02-22": 0
+    }
   }
 ]
