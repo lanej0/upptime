@@ -94,9 +94,9 @@
     "url": "https://kelsilesowski.com",
     "icon": "https://favicons.githubusercontent.com/kelsilesowski.com",
     "slug": "kelsi",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -105,26 +105,28 @@
     "timeWeek": 950,
     "timeMonth": 900,
     "timeYear": 903,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-03-13": 0
+    }
   },
   {
     "name": "MICCC",
     "url": "https://mayneislandchamber.ca",
     "icon": "https://favicons.githubusercontent.com/mayneislandchamber.ca",
     "slug": "miccc",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1003,
-    "timeDay": 1194,
-    "timeWeek": 1181,
-    "timeMonth": 1050,
-    "timeYear": 1003,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "98.31%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.97%",
+    "time": 1002,
+    "timeDay": 1074,
+    "timeWeek": 1153,
+    "timeMonth": 1046,
+    "timeYear": 1002,
     "dailyMinutesDown": {
-      "2021-03-13": 0
+      "2021-03-13": 24
     }
   },
   {
