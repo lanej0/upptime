@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 470,
-    "timeDay": 361,
-    "timeWeek": 388,
-    "timeMonth": 477,
-    "timeYear": 470,
+    "time": 468,
+    "timeDay": 325,
+    "timeWeek": 369,
+    "timeMonth": 472,
+    "timeYear": 468,
     "dailyMinutesDown": {}
   },
   {
@@ -23,20 +23,17 @@
     "icon": "https://favicons.githubusercontent.com/jonathanlane.ca",
     "slug": "jonathan-lane",
     "status": "up",
-    "uptime": "99.97%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.97%",
-    "time": 211,
-    "timeDay": 152,
-    "timeWeek": 196,
-    "timeMonth": 246,
-    "timeYear": 211,
-    "dailyMinutesDown": {
-      "2021-03-13": 24,
-      "2021-01-04": 15
-    }
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 212,
+    "timeDay": 268,
+    "timeWeek": 204,
+    "timeMonth": 247,
+    "timeYear": 212,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Industry Interactive",
@@ -44,20 +41,17 @@
     "icon": "https://favicons.githubusercontent.com/industryinteractive.co",
     "slug": "industry-interactive",
     "status": "up",
-    "uptime": "99.97%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.97%",
-    "time": 176,
-    "timeDay": 207,
-    "timeWeek": 181,
-    "timeMonth": 174,
-    "timeYear": 176,
-    "dailyMinutesDown": {
-      "2021-03-13": 24,
-      "2021-01-04": 15
-    }
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 175,
+    "timeDay": 47,
+    "timeWeek": 161,
+    "timeMonth": 170,
+    "timeYear": 175,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Testing Blog",
@@ -71,8 +65,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 157,
-    "timeDay": 160,
-    "timeWeek": 176,
+    "timeDay": 174,
+    "timeWeek": 187,
     "timeMonth": 161,
     "timeYear": 157,
     "dailyMinutesDown": {}
@@ -83,20 +77,17 @@
     "icon": "https://favicons.githubusercontent.com/www.flyingtroll.com",
     "slug": "flyingtroll",
     "status": "up",
-    "uptime": "99.97%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.97%",
-    "time": 573,
-    "timeDay": 1187,
-    "timeWeek": 819,
-    "timeMonth": 642,
-    "timeYear": 573,
-    "dailyMinutesDown": {
-      "2021-03-13": 24,
-      "2021-01-04": 15
-    }
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 570,
+    "timeDay": 330,
+    "timeWeek": 742,
+    "timeMonth": 632,
+    "timeYear": 570,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Kelsi",
@@ -109,11 +100,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 903,
-    "timeDay": 655,
-    "timeWeek": 747,
-    "timeMonth": 913,
-    "timeYear": 903,
+    "time": 905,
+    "timeDay": 1060,
+    "timeWeek": 783,
+    "timeMonth": 917,
+    "timeYear": 905,
     "dailyMinutesDown": {}
   },
   {
@@ -127,11 +118,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.98%",
-    "time": 1002,
-    "timeDay": 652,
-    "timeWeek": 820,
+    "time": 1003,
+    "timeDay": 1053,
+    "timeWeek": 848,
     "timeMonth": 1047,
-    "timeYear": 1002,
+    "timeYear": 1003,
     "dailyMinutesDown": {
       "2021-03-13": 24
     }
@@ -148,9 +139,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 313,
-    "timeDay": 380,
-    "timeWeek": 295,
-    "timeMonth": 318,
+    "timeDay": 354,
+    "timeWeek": 314,
+    "timeMonth": 319,
     "timeYear": 313,
     "dailyMinutesDown": {}
   }
