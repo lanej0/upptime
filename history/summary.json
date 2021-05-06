@@ -94,19 +94,19 @@
     "url": "https://kelsilesowski.com",
     "icon": "https://favicons.githubusercontent.com/kelsilesowski.com",
     "slug": "kelsi",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 871,
-    "timeDay": 874,
-    "timeWeek": 788,
-    "timeMonth": 784,
-    "timeYear": 871,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.04%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
+    "time": 869,
+    "timeDay": 737,
+    "timeWeek": 765,
+    "timeMonth": 778,
+    "timeYear": 869,
     "dailyMinutesDown": {
-      "2021-05-06": 0
+      "2021-05-06": 14
     }
   },
   {
