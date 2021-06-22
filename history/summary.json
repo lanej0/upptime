@@ -80,19 +80,19 @@
     "url": "https://www.flyingtroll.com",
     "icon": "https://favicons.githubusercontent.com/www.flyingtroll.com",
     "slug": "flyingtroll",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.23%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 605,
-    "timeDay": 887,
-    "timeWeek": 575,
-    "timeMonth": 649,
-    "timeYear": 605,
+    "time": 606,
+    "timeDay": 863,
+    "timeWeek": 608,
+    "timeMonth": 655,
+    "timeYear": 606,
     "dailyMinutesDown": {
-      "2021-06-22": 0
+      "2021-06-22": 11
     }
   },
   {
