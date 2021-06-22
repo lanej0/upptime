@@ -80,9 +80,9 @@
     "url": "https://www.flyingtroll.com",
     "icon": "https://favicons.githubusercontent.com/www.flyingtroll.com",
     "slug": "flyingtroll",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -91,7 +91,9 @@
     "timeWeek": 575,
     "timeMonth": 649,
     "timeYear": 605,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-06-22": 0
+    }
   },
   {
     "name": "Kelsi",
@@ -99,19 +101,17 @@
     "icon": "https://favicons.githubusercontent.com/kelsilesowski.com",
     "slug": "kelsi",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.14%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 836,
     "timeDay": 823,
     "timeWeek": 761,
     "timeMonth": 716,
     "timeYear": 836,
-    "dailyMinutesDown": {
-      "2021-06-22": 12
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "MICCC",
