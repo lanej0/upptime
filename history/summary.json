@@ -98,10 +98,10 @@
     "url": "https://kelsilesowski.com",
     "icon": "https://favicons.githubusercontent.com/kelsilesowski.com",
     "slug": "kelsi",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 798,
@@ -109,7 +109,9 @@
     "timeWeek": 676,
     "timeMonth": 700,
     "timeYear": 798,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-08-14": 1
+    }
   },
   {
     "name": "MICCC",
