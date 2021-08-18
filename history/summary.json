@@ -4,18 +4,20 @@
     "url": "https://easton-snelgrove.com",
     "icon": "https://favicons.githubusercontent.com/easton-snelgrove.com",
     "slug": "easton-snelgrove-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 408,
-    "timeDay": 492,
-    "timeWeek": 367,
-    "timeMonth": 367,
+    "timeDay": 366,
+    "timeWeek": 351,
+    "timeMonth": 363,
     "timeYear": 408,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-08-18": 0
+    }
   },
   {
     "name": "Jonathan Lane",
