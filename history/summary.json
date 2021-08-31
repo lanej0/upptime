@@ -64,19 +64,19 @@
     "url": "http://mytested.com",
     "icon": "https://favicons.githubusercontent.com/mytested.com",
     "slug": "testing-blog",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.84%",
-    "uptimeWeek": "99.98%",
+    "uptimeDay": "99.68%",
+    "uptimeWeek": "99.95%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 149,
-    "timeDay": 97,
-    "timeWeek": 87,
-    "timeMonth": 122,
-    "timeYear": 149,
+    "time": 148,
+    "timeDay": 96,
+    "timeWeek": 88,
+    "timeMonth": 121,
+    "timeYear": 148,
     "dailyMinutesDown": {
-      "2021-08-31": 2
+      "2021-08-31": 5
     }
   },
   {
