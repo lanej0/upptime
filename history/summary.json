@@ -4,9 +4,9 @@
     "url": "https://easton-snelgrove.com",
     "icon": "https://favicons.githubusercontent.com/easton-snelgrove.com",
     "slug": "easton-snelgrove-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.82%",
     "uptimeYear": "99.98%",
@@ -16,6 +16,7 @@
     "timeMonth": 339,
     "timeYear": 399,
     "dailyMinutesDown": {
+      "2021-09-14": 0,
       "2021-08-18": 77
     }
   },
@@ -109,7 +110,7 @@
     "time": 789,
     "timeDay": 842,
     "timeWeek": 717,
-    "timeMonth": 720,
+    "timeMonth": 729,
     "timeYear": 789,
     "dailyMinutesDown": {}
   },
