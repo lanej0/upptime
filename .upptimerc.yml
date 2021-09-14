@@ -4,8 +4,6 @@ repo: upptime # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: Easton-Snelgrove.com
-    url: https://easton-snelgrove.com
   - name: Jonathan Lane
     url: https://jonathanlane.ca
   - name: Industry Interactive
