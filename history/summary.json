@@ -100,9 +100,9 @@
     "url": "https://mayneislandchamber.ca",
     "icon": "https://favicons.githubusercontent.com/mayneislandchamber.ca",
     "slug": "miccc",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -112,6 +112,7 @@
     "timeMonth": 789,
     "timeYear": 872,
     "dailyMinutesDown": {
+      "2021-11-05": 0,
       "2021-03-13": 24
     }
   },
