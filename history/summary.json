@@ -82,11 +82,11 @@
     "url": "https://kelsilesowski.com",
     "icon": "https://favicons.githubusercontent.com/kelsilesowski.com",
     "slug": "kelsi",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.20%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 786,
     "timeDay": 528,
@@ -94,7 +94,7 @@
     "timeMonth": 827,
     "timeYear": 786,
     "dailyMinutesDown": {
-      "2021-11-10": 12
+      "2021-11-10": 0
     }
   },
   {
