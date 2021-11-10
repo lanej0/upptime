@@ -84,18 +84,16 @@
     "slug": "kelsi",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.26%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 786,
     "timeDay": 673,
     "timeWeek": 1131,
     "timeMonth": 826,
     "timeYear": 786,
-    "dailyMinutesDown": {
-      "2021-11-10": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "MICCC",
@@ -104,9 +102,9 @@
     "slug": "miccc",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.30%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 872,
     "timeDay": 908,
@@ -114,7 +112,6 @@
     "timeMonth": 802,
     "timeYear": 872,
     "dailyMinutesDown": {
-      "2021-11-10": 10,
       "2021-03-13": 24
     }
   },
@@ -123,9 +120,9 @@
     "url": "http://www.treefroggallery.ca",
     "icon": "https://favicons.githubusercontent.com/www.treefroggallery.ca",
     "slug": "tree-frog",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -134,6 +131,8 @@
     "timeWeek": 236,
     "timeMonth": 255,
     "timeYear": 283,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-11-10": 0
+    }
   }
 ]
