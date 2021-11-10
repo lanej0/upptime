@@ -120,19 +120,19 @@
     "url": "http://www.treefroggallery.ca",
     "icon": "https://favicons.githubusercontent.com/www.treefroggallery.ca",
     "slug": "tree-frog",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "96.75%",
+    "uptimeWeek": "99.54%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.99%",
     "time": 283,
-    "timeDay": 227,
-    "timeWeek": 236,
-    "timeMonth": 255,
+    "timeDay": 259,
+    "timeWeek": 243,
+    "timeMonth": 256,
     "timeYear": 283,
     "dailyMinutesDown": {
-      "2021-11-10": 0
+      "2021-11-10": 47
     }
   }
 ]
