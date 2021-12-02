@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 182,
-    "timeDay": 154,
+    "timeDay": 217,
     "timeWeek": 276,
-    "timeMonth": 163,
+    "timeMonth": 168,
     "timeYear": 182,
     "dailyMinutesDown": {
       "2021-06-08": 36
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 145,
-    "timeDay": 191,
-    "timeWeek": 216,
-    "timeMonth": 144,
+    "timeDay": 220,
+    "timeWeek": 184,
+    "timeMonth": 148,
     "timeYear": 145,
     "dailyMinutesDown": {
       "2021-06-08": 22
@@ -51,9 +51,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 143,
-    "timeDay": 177,
-    "timeWeek": 176,
-    "timeMonth": 135,
+    "timeDay": 185,
+    "timeWeek": 173,
+    "timeMonth": 137,
     "timeYear": 143,
     "dailyMinutesDown": {}
   },
@@ -68,11 +68,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 595,
-    "timeDay": 604,
-    "timeWeek": 804,
+    "time": 594,
+    "timeDay": 470,
+    "timeWeek": 776,
     "timeMonth": 668,
-    "timeYear": 595,
+    "timeYear": 594,
     "dailyMinutesDown": {
       "2021-10-25": 21
     }
@@ -84,18 +84,16 @@
     "slug": "kelsi",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.25%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 780,
-    "timeDay": 459,
-    "timeWeek": 734,
-    "timeMonth": 818,
-    "timeYear": 780,
-    "dailyMinutesDown": {
-      "2021-12-01": 11
-    }
+    "time": 779,
+    "timeDay": 436,
+    "timeWeek": 710,
+    "timeMonth": 817,
+    "timeYear": 779,
+    "dailyMinutesDown": {}
   },
   {
     "name": "MICCC",
@@ -104,17 +102,16 @@
     "slug": "miccc",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.29%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 866,
-    "timeDay": 620,
+    "timeDay": 623,
     "timeWeek": 869,
     "timeMonth": 803,
     "timeYear": 866,
     "dailyMinutesDown": {
-      "2021-12-01": 10,
       "2021-03-13": 24
     }
   },
@@ -129,11 +126,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.99%",
-    "time": 282,
-    "timeDay": 144,
-    "timeWeek": 274,
-    "timeMonth": 265,
-    "timeYear": 282,
+    "time": 283,
+    "timeDay": 432,
+    "timeWeek": 323,
+    "timeMonth": 272,
+    "timeYear": 283,
     "dailyMinutesDown": {
       "2021-11-10": 47
     }
