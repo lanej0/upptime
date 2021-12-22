@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 180,
-    "timeDay": 125,
-    "timeWeek": 124,
-    "timeMonth": 168,
-    "timeYear": 180,
+    "time": 179,
+    "timeDay": 106,
+    "timeWeek": 131,
+    "timeMonth": 166,
+    "timeYear": 179,
     "dailyMinutesDown": {
       "2021-06-08": 36
     }
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 144,
-    "timeDay": 39,
-    "timeWeek": 120,
-    "timeMonth": 155,
+    "timeDay": 115,
+    "timeWeek": 117,
+    "timeMonth": 150,
     "timeYear": 144,
     "dailyMinutesDown": {
       "2021-06-08": 22
@@ -51,9 +51,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 141,
-    "timeDay": 48,
-    "timeWeek": 88,
-    "timeMonth": 138,
+    "timeDay": 132,
+    "timeWeek": 101,
+    "timeMonth": 136,
     "timeYear": 141,
     "dailyMinutesDown": {}
   },
@@ -69,9 +69,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 594,
-    "timeDay": 802,
-    "timeWeek": 696,
-    "timeMonth": 659,
+    "timeDay": 368,
+    "timeWeek": 631,
+    "timeMonth": 638,
     "timeYear": 594,
     "dailyMinutesDown": {
       "2021-10-25": 21
@@ -84,18 +84,16 @@
     "slug": "kelsi",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.67%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 774,
-    "timeDay": 729,
-    "timeWeek": 704,
-    "timeMonth": 707,
+    "timeDay": 445,
+    "timeWeek": 651,
+    "timeMonth": 690,
     "timeYear": 774,
-    "dailyMinutesDown": {
-      "2021-12-21": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "MICCC",
@@ -108,11 +106,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 862,
-    "timeDay": 1023,
-    "timeWeek": 950,
-    "timeMonth": 824,
-    "timeYear": 862,
+    "time": 861,
+    "timeDay": 476,
+    "timeWeek": 854,
+    "timeMonth": 802,
+    "timeYear": 861,
     "dailyMinutesDown": {
       "2021-03-13": 24
     }
@@ -128,11 +126,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 283,
-    "timeDay": 511,
-    "timeWeek": 335,
-    "timeMonth": 286,
-    "timeYear": 283,
+    "time": 282,
+    "timeDay": 145,
+    "timeWeek": 289,
+    "timeMonth": 279,
+    "timeYear": 282,
     "dailyMinutesDown": {
       "2021-11-10": 47
     }
