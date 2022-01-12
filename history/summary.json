@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 177,
-    "timeDay": 115,
-    "timeWeek": 166,
-    "timeMonth": 136,
-    "timeYear": 175,
+    "timeDay": 187,
+    "timeWeek": 167,
+    "timeMonth": 137,
+    "timeYear": 176,
     "dailyMinutesDown": {
       "2021-06-08": 36
     }
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 144,
-    "timeDay": 41,
-    "timeWeek": 112,
-    "timeMonth": 136,
+    "timeDay": 112,
+    "timeWeek": 103,
+    "timeMonth": 134,
     "timeYear": 143,
     "dailyMinutesDown": {
       "2021-06-08": 22
@@ -51,9 +51,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 140,
-    "timeDay": 66,
-    "timeWeek": 95,
-    "timeMonth": 119,
+    "timeDay": 92,
+    "timeWeek": 94,
+    "timeMonth": 117,
     "timeYear": 140,
     "dailyMinutesDown": {}
   },
@@ -69,10 +69,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 598,
-    "timeDay": 843,
-    "timeWeek": 677,
-    "timeMonth": 655,
-    "timeYear": 599,
+    "timeDay": 497,
+    "timeWeek": 648,
+    "timeMonth": 651,
+    "timeYear": 600,
     "dailyMinutesDown": {
       "2021-10-25": 21
     }
@@ -88,11 +88,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.74%",
     "uptimeYear": "99.98%",
-    "time": 839,
-    "timeDay": 851,
-    "timeWeek": 715,
-    "timeMonth": 1364,
-    "timeYear": 838,
+    "time": 838,
+    "timeDay": 538,
+    "timeWeek": 700,
+    "timeMonth": 1360,
+    "timeYear": 837,
     "dailyMinutesDown": {
       "2021-12-26": 114
     }
@@ -108,11 +108,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.70%",
     "uptimeYear": "99.97%",
-    "time": 862,
-    "timeDay": 1010,
-    "timeWeek": 882,
-    "timeMonth": 865,
-    "timeYear": 859,
+    "time": 861,
+    "timeDay": 594,
+    "timeWeek": 879,
+    "timeMonth": 854,
+    "timeYear": 858,
     "dailyMinutesDown": {
       "2021-12-26": 114,
       "2021-12-22": 17,
@@ -125,18 +125,19 @@
     "icon": "https://favicons.githubusercontent.com/www.treefroggallery.ca",
     "slug": "tree-frog",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.73%",
+    "uptimeDay": "3.25%",
+    "uptimeWeek": "86.18%",
+    "uptimeMonth": "96.82%",
+    "uptimeYear": "99.73%",
     "time": 285,
-    "timeDay": 251,
-    "timeWeek": 346,
-    "timeMonth": 321,
+    "timeDay": 213,
+    "timeWeek": 353,
+    "timeMonth": 313,
     "timeYear": 282,
     "dailyMinutesDown": {
-      "2022-01-11": 0,
+      "2022-01-12": 6,
+      "2022-01-11": 1387,
       "2021-11-10": 47
     }
   }
