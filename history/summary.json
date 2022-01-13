@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 177,
-    "timeDay": 187,
-    "timeWeek": 167,
-    "timeMonth": 137,
+    "time": 178,
+    "timeDay": 210,
+    "timeWeek": 163,
+    "timeMonth": 141,
     "timeYear": 176,
     "dailyMinutesDown": {
       "2021-06-08": 36
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 144,
-    "timeDay": 112,
-    "timeWeek": 103,
-    "timeMonth": 134,
+    "timeDay": 123,
+    "timeWeek": 110,
+    "timeMonth": 135,
     "timeYear": 143,
     "dailyMinutesDown": {
       "2021-06-08": 22
@@ -51,8 +51,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 140,
-    "timeDay": 92,
-    "timeWeek": 94,
+    "timeDay": 67,
+    "timeWeek": 82,
     "timeMonth": 117,
     "timeYear": 140,
     "dailyMinutesDown": {}
@@ -69,10 +69,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 598,
-    "timeDay": 497,
-    "timeWeek": 648,
-    "timeMonth": 651,
-    "timeYear": 600,
+    "timeDay": 761,
+    "timeWeek": 673,
+    "timeMonth": 660,
+    "timeYear": 601,
     "dailyMinutesDown": {
       "2021-10-25": 21
     }
@@ -89,9 +89,9 @@
     "uptimeMonth": "99.74%",
     "uptimeYear": "99.98%",
     "time": 838,
-    "timeDay": 538,
-    "timeWeek": 700,
-    "timeMonth": 1360,
+    "timeDay": 938,
+    "timeWeek": 723,
+    "timeMonth": 1371,
     "timeYear": 837,
     "dailyMinutesDown": {
       "2021-12-26": 114
@@ -109,9 +109,9 @@
     "uptimeMonth": "99.70%",
     "uptimeYear": "99.97%",
     "time": 861,
-    "timeDay": 594,
-    "timeWeek": 879,
-    "timeMonth": 854,
+    "timeDay": 1049,
+    "timeWeek": 900,
+    "timeMonth": 869,
     "timeYear": 858,
     "dailyMinutesDown": {
       "2021-12-26": 114,
@@ -125,18 +125,19 @@
     "icon": "https://favicons.githubusercontent.com/www.treefroggallery.ca",
     "slug": "tree-frog",
     "status": "down",
-    "uptime": "99.73%",
-    "uptimeDay": "3.25%",
-    "uptimeWeek": "86.18%",
-    "uptimeMonth": "96.82%",
-    "uptimeYear": "99.73%",
+    "uptime": "99.46%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "71.89%",
+    "uptimeMonth": "93.53%",
+    "uptimeYear": "99.45%",
     "time": 285,
-    "timeDay": 213,
-    "timeWeek": 353,
-    "timeMonth": 313,
+    "timeDay": 0,
+    "timeWeek": 355,
+    "timeMonth": 319,
     "timeYear": 282,
     "dailyMinutesDown": {
-      "2022-01-12": 6,
+      "2022-01-13": 6,
+      "2022-01-12": 1440,
       "2022-01-11": 1387,
       "2021-11-10": 47
     }
