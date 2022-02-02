@@ -84,9 +84,9 @@
     "slug": "kelsi",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.56%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 841,
     "timeDay": 2800,
@@ -94,7 +94,6 @@
     "timeMonth": 826,
     "timeYear": 833,
     "dailyMinutesDown": {
-      "2022-02-02": 6,
       "2021-12-26": 114
     }
   },
@@ -103,9 +102,9 @@
     "url": "https://mayneislandchamber.ca",
     "icon": "https://favicons.githubusercontent.com/mayneislandchamber.ca",
     "slug": "miccc",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
@@ -115,6 +114,7 @@
     "timeMonth": 865,
     "timeYear": 850,
     "dailyMinutesDown": {
+      "2022-02-02": 0,
       "2021-12-26": 114,
       "2021-12-22": 17,
       "2021-03-13": 24
