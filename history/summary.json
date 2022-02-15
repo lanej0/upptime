@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 173,
-    "timeDay": 219,
-    "timeWeek": 137,
-    "timeMonth": 125,
+    "timeDay": 176,
+    "timeWeek": 145,
+    "timeMonth": 122,
     "timeYear": 170,
     "dailyMinutesDown": {
       "2021-06-08": 36
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 142,
-    "timeDay": 62,
-    "timeWeek": 169,
-    "timeMonth": 121,
+    "timeDay": 188,
+    "timeWeek": 177,
+    "timeMonth": 123,
     "timeYear": 137,
     "dailyMinutesDown": {
       "2021-06-08": 22
@@ -51,9 +51,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 137,
-    "timeDay": 108,
-    "timeWeek": 94,
-    "timeMonth": 102,
+    "timeDay": 155,
+    "timeWeek": 106,
+    "timeMonth": 99,
     "timeYear": 135,
     "dailyMinutesDown": {}
   },
@@ -69,10 +69,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 621,
-    "timeDay": 923,
-    "timeWeek": 708,
-    "timeMonth": 865,
-    "timeYear": 633,
+    "timeDay": 620,
+    "timeWeek": 673,
+    "timeMonth": 868,
+    "timeYear": 634,
     "dailyMinutesDown": {
       "2021-10-25": 21
     }
@@ -89,10 +89,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 840,
-    "timeDay": 1177,
-    "timeWeek": 875,
-    "timeMonth": 863,
-    "timeYear": 834,
+    "timeDay": 865,
+    "timeWeek": 867,
+    "timeMonth": 871,
+    "timeYear": 833,
     "dailyMinutesDown": {
       "2021-12-26": 114
     }
@@ -104,17 +104,17 @@
     "slug": "miccc",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "98.41%",
-    "uptimeWeek": "99.77%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "98.84%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
     "time": 865,
-    "timeDay": 1043,
-    "timeWeek": 965,
-    "timeMonth": 895,
-    "timeYear": 853,
+    "timeDay": 990,
+    "timeWeek": 943,
+    "timeMonth": 902,
+    "timeYear": 852,
     "dailyMinutesDown": {
-      "2022-02-14": 23,
+      "2022-02-14": 17,
       "2021-12-26": 114,
       "2021-12-22": 17,
       "2021-03-13": 24
