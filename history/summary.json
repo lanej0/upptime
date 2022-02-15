@@ -91,7 +91,7 @@
     "time": 840,
     "timeDay": 865,
     "timeWeek": 867,
-    "timeMonth": 871,
+    "timeMonth": 881,
     "timeYear": 833,
     "dailyMinutesDown": {
       "2021-12-26": 114
@@ -102,11 +102,11 @@
     "url": "https://mayneislandchamber.ca",
     "icon": "https://favicons.githubusercontent.com/mayneislandchamber.ca",
     "slug": "miccc",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "99.78%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
     "time": 865,
     "timeDay": 724,
@@ -114,7 +114,7 @@
     "timeMonth": 897,
     "timeYear": 852,
     "dailyMinutesDown": {
-      "2022-02-15": 5,
+      "2022-02-15": 0,
       "2022-02-14": 17,
       "2021-12-26": 114,
       "2021-12-22": 17,
