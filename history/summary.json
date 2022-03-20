@@ -62,9 +62,9 @@
     "url": "https://www.flyingtroll.com",
     "icon": "https://favicons.githubusercontent.com/www.flyingtroll.com",
     "slug": "flyingtroll",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.99%",
@@ -74,6 +74,7 @@
     "timeMonth": 692,
     "timeYear": 643,
     "dailyMinutesDown": {
+      "2022-03-20": 0,
       "2022-02-26": 47,
       "2021-10-25": 21
     }
