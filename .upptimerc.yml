@@ -9,11 +9,11 @@ sites:
   - name: Industry Interactive
     url: https://industryinteractive.co
   - name: Testing Blog
-    url: http://mytested.com
+    url: https://mytested.com
   - name: Flyingtroll
     url: https://www.flyingtroll.com
-  - name: Kelsi
-    url: https://kelsilesowski.com
+  - name: Mayne Island dot com
+    url: https://mayneisland.com
   - name: MICCC
     url: https://mayneislandchamber.ca
 assignees:
