@@ -95,18 +95,20 @@
     "url": "https://mayneisland.com",
     "icon": "https://icons.duckduckgo.com/ip3/mayneisland.com.ico",
     "slug": "mayne-island-dot-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 475,
-    "timeDay": 360,
-    "timeWeek": 822,
-    "timeMonth": 480,
-    "timeYear": 475,
-    "dailyMinutesDown": {}
+    "time": 505,
+    "timeDay": 679,
+    "timeWeek": 896,
+    "timeMonth": 514,
+    "timeYear": 505,
+    "dailyMinutesDown": {
+      "2022-11-23": 0
+    }
   },
   {
     "name": "MICCC",
