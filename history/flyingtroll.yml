@@ -1,7 +1,7 @@
 url: https://www.flyingtroll.com
-status: up
-code: 200
-responseTime: 967
-lastUpdated: 2023-09-20T23:03:34.025Z
+status: down
+code: 500
+responseTime: 362
+lastUpdated: 2023-09-21T00:21:37.099Z
 startTime: 2021-01-04T15:53:30.000Z
 generator: Upptime <https://github.com/upptime/upptime>
