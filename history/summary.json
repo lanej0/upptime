@@ -6,36 +6,36 @@
     "slug": "jonathan-lane",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.62%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 153,
     "timeDay": 1455,
     "timeWeek": 567,
     "timeMonth": 243,
     "timeYear": 151,
-    "dailyMinutesDown": {
-      "2024-04-07": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Industry Interactive",
     "url": "https://industryinteractive.co",
     "icon": "https://icons.duckduckgo.com/ip3/industryinteractive.co.ico",
     "slug": "industry-interactive",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 128,
-    "timeDay": 152,
-    "timeWeek": 137,
-    "timeMonth": 111,
-    "timeYear": 123,
-    "dailyMinutesDown": {}
+    "time": 132,
+    "timeDay": 1138,
+    "timeWeek": 385,
+    "timeMonth": 174,
+    "timeYear": 129,
+    "dailyMinutesDown": {
+      "2024-04-07": 0
+    }
   },
   {
     "name": "Testing Blog",
