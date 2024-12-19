@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 135,
-    "timeDay": 89,
-    "timeWeek": 135,
+    "timeDay": 88,
+    "timeWeek": 128,
     "timeMonth": 141,
-    "timeYear": 136,
+    "timeYear": 135,
     "dailyMinutesDown": {}
   },
   {
@@ -29,8 +29,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 119,
-    "timeDay": 84,
-    "timeWeek": 104,
+    "timeDay": 103,
+    "timeWeek": 105,
     "timeMonth": 131,
     "timeYear": 120,
     "dailyMinutesDown": {}
@@ -47,9 +47,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 142,
-    "timeDay": 92,
+    "timeDay": 168,
     "timeWeek": 134,
-    "timeMonth": 144,
+    "timeMonth": 147,
     "timeYear": 142,
     "dailyMinutesDown": {}
   },
@@ -64,14 +64,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 853,
-    "timeDay": 220,
-    "timeWeek": 240,
-    "timeMonth": 215,
+    "time": 852,
+    "timeDay": 291,
+    "timeWeek": 256,
+    "timeMonth": 214,
     "timeYear": 602,
-    "dailyMinutesDown": {
-      "2023-12-20": 83
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Mayne Island dot com",
@@ -85,9 +83,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 327,
-    "timeDay": 66,
-    "timeWeek": 122,
-    "timeMonth": 151,
+    "timeDay": 84,
+    "timeWeek": 119,
+    "timeMonth": 148,
     "timeYear": 316,
     "dailyMinutesDown": {
       "2024-06-18": 57,
