@@ -58,19 +58,19 @@
     "url": "https://www.flyingtroll.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.flyingtroll.com.ico",
     "slug": "flyingtroll",
-    "status": "down",
+    "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.47%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 570,
-    "timeDay": 356,
-    "timeWeek": 234,
-    "timeMonth": 235,
-    "timeYear": 209,
+    "time": 568,
+    "timeDay": 634,
+    "timeWeek": 319,
+    "timeMonth": 256,
+    "timeYear": 211,
     "dailyMinutesDown": {
-      "2025-04-10": 0
+      "2025-04-10": 8
     }
   },
   {
