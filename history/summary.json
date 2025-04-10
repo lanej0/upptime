@@ -58,18 +58,20 @@
     "url": "https://www.flyingtroll.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.flyingtroll.com.ico",
     "slug": "flyingtroll",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 572,
+    "time": 570,
     "timeDay": 356,
     "timeWeek": 234,
     "timeMonth": 235,
     "timeYear": 209,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-04-10": 0
+    }
   },
   {
     "name": "Mayne Island dot com",
