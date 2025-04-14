@@ -6,14 +6,12 @@ repo: upptime # Your GitHub repository name
 sites:
   - name: Jonathan Lane
     url: https://jonathanlane.ca
-  - name: Industry Interactive
-    url: https://industryinteractive.co
-  - name: Testing Blog
-    url: https://mytested.com
   - name: Flyingtroll
     url: https://www.flyingtroll.com
   - name: Mayne Island dot com
     url: https://mayneisland.com
+  - name: TestResult
+    url: https://testresult.co/
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
