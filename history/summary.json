@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 135,
-    "timeDay": 151,
-    "timeWeek": 211,
-    "timeMonth": 148,
+    "timeDay": 180,
+    "timeWeek": 203,
+    "timeMonth": 150,
     "timeYear": 130,
     "dailyMinutesDown": {}
   },
@@ -23,18 +23,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.flyingtroll.com.ico",
     "slug": "flyingtroll",
     "status": "down",
-    "uptime": "99.95%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 479,
-    "timeDay": 184,
-    "timeWeek": 262,
-    "timeMonth": 277,
+    "uptime": "99.94%",
+    "uptimeDay": "86.02%",
+    "uptimeWeek": "98.00%",
+    "uptimeMonth": "99.54%",
+    "uptimeYear": "99.96%",
+    "time": 480,
+    "timeDay": 190,
+    "timeWeek": 261,
+    "timeMonth": 280,
     "timeYear": 216,
     "dailyMinutesDown": {
-      "2025-04-28": 0
+      "2025-04-29": 14,
+      "2025-04-28": 188
     }
   },
   {
@@ -49,10 +50,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 267,
-    "timeDay": 156,
-    "timeWeek": 138,
-    "timeMonth": 127,
-    "timeYear": 218,
+    "timeDay": 166,
+    "timeWeek": 143,
+    "timeMonth": 128,
+    "timeYear": 217,
     "dailyMinutesDown": {
       "2024-06-18": 57
     }
@@ -68,11 +69,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 272,
-    "timeDay": 278,
-    "timeWeek": 270,
-    "timeMonth": 272,
-    "timeYear": 272,
+    "time": 273,
+    "timeDay": 284,
+    "timeWeek": 289,
+    "timeMonth": 273,
+    "timeYear": 273,
     "dailyMinutesDown": {}
   }
 ]
