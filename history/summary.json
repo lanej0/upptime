@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 136,
     "timeDay": 205,
-    "timeWeek": 172,
+    "timeWeek": 168,
     "timeMonth": 160,
     "timeYear": 132,
     "dailyMinutesDown": {}
@@ -24,16 +24,17 @@
     "slug": "flyingtroll",
     "status": "up",
     "uptime": "99.92%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "96.32%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.44%",
     "uptimeMonth": "98.69%",
     "uptimeYear": "99.89%",
-    "time": 384,
+    "time": 382,
     "timeDay": 288,
-    "timeWeek": 393,
+    "timeWeek": 389,
     "timeMonth": 322,
     "timeYear": 223,
     "dailyMinutesDown": {
+      "2025-05-06": 0,
       "2025-04-29": 385,
       "2025-04-28": 188
     }
@@ -51,7 +52,7 @@
     "uptimeYear": "99.99%",
     "time": 264,
     "timeDay": 158,
-    "timeWeek": 133,
+    "timeWeek": 132,
     "timeMonth": 131,
     "timeYear": 205,
     "dailyMinutesDown": {
@@ -71,7 +72,7 @@
     "uptimeYear": "100.00%",
     "time": 266,
     "timeDay": 144,
-    "timeWeek": 253,
+    "timeWeek": 252,
     "timeMonth": 266,
     "timeYear": 266,
     "dailyMinutesDown": {}
