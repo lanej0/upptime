@@ -82,17 +82,19 @@
     "url": "https://save.flyingtroll.com/",
     "icon": "https://icons.duckduckgo.com/ip3/save.flyingtroll.com.ico",
     "slug": "bookmarks",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 419,
-    "timeDay": 1295,
-    "timeWeek": 572,
-    "timeMonth": 469,
-    "timeYear": 419,
-    "dailyMinutesDown": {}
+    "time": 427,
+    "timeDay": 1135,
+    "timeWeek": 623,
+    "timeMonth": 485,
+    "timeYear": 427,
+    "dailyMinutesDown": {
+      "2025-08-20": 0
+    }
   }
 ]
