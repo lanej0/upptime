@@ -1,7 +1,7 @@
 url: https://testresult.co/
-status: down
-code: 502
-responseTime: 300
-lastUpdated: 2026-01-20T23:04:50.275Z
+status: up
+code: 200
+responseTime: 403
+lastUpdated: 2026-01-20T23:59:04.408Z
 startTime: 2025-04-14T23:09:14.906Z
 generator: Upptime <https://github.com/upptime/upptime>
