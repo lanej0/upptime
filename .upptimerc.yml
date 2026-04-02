@@ -20,10 +20,8 @@ sites:
     url: https://georginaimprovement.ca/
 
 status-website:
-  # Add your custom domain below, or remove the next line if you don't have a domain
-  # cname: status.industryclients.com
   # Uncomment the following line if you don't have a custom domain and add your repo name
-  # baseUrl: /upptime
+  baseUrl: https://lanej0.github.io/upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Industry Clients Status
   introTitle: "Status monitoring for various client web sites."
