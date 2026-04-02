@@ -82,18 +82,16 @@
     "slug": "mayne-island-dot-com",
     "status": "up",
     "uptime": "99.63%",
-    "uptimeDay": "99.13%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 153,
     "timeDay": 261,
     "timeWeek": 191,
     "timeMonth": 165,
     "timeYear": 159,
-    "dailyMinutesDown": {
-      "2026-04-01": 13
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "TestResult",
