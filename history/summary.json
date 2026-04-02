@@ -80,19 +80,19 @@
     "url": "https://mayneisland.com",
     "icon": "https://icons.duckduckgo.com/ip3/mayneisland.com.ico",
     "slug": "mayne-island-dot-com",
-    "status": "down",
+    "status": "up",
     "uptime": "99.63%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.31%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "100.00%",
-    "time": 153,
-    "timeDay": 302,
-    "timeWeek": 215,
-    "timeMonth": 173,
+    "time": 154,
+    "timeDay": 326,
+    "timeWeek": 234,
+    "timeMonth": 180,
     "timeYear": 160,
     "dailyMinutesDown": {
-      "2026-04-02": 0
+      "2026-04-02": 24
     }
   },
   {
