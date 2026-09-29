@@ -4,9 +4,9 @@
     "url": "https://jonathanlane.ca",
     "icon": "https://icons.duckduckgo.com/ip3/jonathanlane.ca.ico",
     "slug": "jonathan-lane",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 103,
     "timeMonth": 132,
     "timeYear": 153,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-09-29": 0
+    }
   },
   {
     "name": "Flyingtroll",
@@ -86,7 +88,7 @@
     "time": 268,
     "timeDay": 539,
     "timeWeek": 479,
-    "timeMonth": 508,
+    "timeMonth": 512,
     "timeYear": 292,
     "dailyMinutesDown": {
       "2026-04-02": 24,
@@ -116,7 +118,7 @@
     "time": 296,
     "timeDay": 300,
     "timeWeek": 555,
-    "timeMonth": 374,
+    "timeMonth": 338,
     "timeYear": 298,
     "dailyMinutesDown": {
       "2026-01-20": 1439,
@@ -147,7 +149,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/save.flyingtroll.com.ico",
     "slug": "bookmarks",
     "status": "up",
-    "uptime": "97.63%",
+    "uptime": "97.64%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.64%",
@@ -155,7 +157,7 @@
     "time": 530,
     "timeDay": 635,
     "timeWeek": 635,
-    "timeMonth": 554,
+    "timeMonth": 556,
     "timeYear": 539,
     "dailyMinutesDown": {
       "2025-10-30": 30,
@@ -227,7 +229,7 @@
     "time": 456,
     "timeDay": 506,
     "timeWeek": 411,
-    "timeMonth": 413,
+    "timeMonth": 410,
     "timeYear": 456,
     "dailyMinutesDown": {
       "2026-04-30": 29,
