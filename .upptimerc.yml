@@ -4,8 +4,6 @@ repo: upptime # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: Jonathan Lane
-    url: https://jonathanlane.ca
   - name: Flyingtroll
     url: https://flyingtroll.com
   - name: Mayne Island dot com
@@ -18,6 +16,8 @@ sites:
     url: https://maynebc.com/
   - name: Water District
     url: https://georginaimprovement.ca/
+  - name: Walk Tracker
+    url: https://walk.7vss.com/
 
 status-website:
   # Uncomment the following line if you don't have a custom domain and add your repo name
